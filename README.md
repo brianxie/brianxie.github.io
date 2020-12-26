@@ -40,9 +40,10 @@ and view on http://localhost:3000
 
 Haha.
 
-Switch to the `gh-pages` branch:
+Switch to the `gh-pages` branch and bring in the source changes:
 ```
 git checkout gh-pages
+git checkout master -- .
 ```
 
 Generate the static site contents:
