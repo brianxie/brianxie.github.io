@@ -48,6 +48,7 @@ git checkout master -- .
 
 Generate the static site contents:
 ```
+npm run build
 npm run export
 ```
 which are written to a new directory, `out/`.
