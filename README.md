@@ -53,4 +53,4 @@ npm run export
 ```
 which are written to a new directory, `out/`.
 
-Copy all of its contents to root, delete everything else except for `.nojekyll`, and push to `gh-pages`.
+Copy all of its contents to root, delete everything else except for `.nojekyll` (and `CNAME`, for custom domain), and push to `gh-pages`.
