@@ -23,7 +23,6 @@ export default function Home() {
           Find me elsewhere on the internet:
           {' '}<a href="https://github.com/brianxie">GitHub</a> /
           {' '}<a href="https://linkedin.com/in/brianxie">LinkedIn</a> /
-          {' '}<a href="https://twitter.com/brixie_">Twitter</a> /
           {' '}<a href="https://news.ycombinator.com/user?id=brixie">HN</a>
         </p>
       </main>
